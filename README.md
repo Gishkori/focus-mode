@@ -1,14 +1,26 @@
 # Project Title
 
+Chrome Focus Mode
+
 ## Overview
-This project is designed to [briefly describe what your project does]. It is built using [mention the tech stack or framework used].
+
+This is a chrome extension which enables the user to have focus mode and there are some modifications which I have been added to it
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+
+- Enables Focus on Certain Web Pages
+
+## Modification
+
+- Changed Style of Focus Mode (Dark Mode)
+- Added Keyboard Shortcut
+- Added more websites to enable focus mode on
 
 ## Installation
-<!-- 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git -->
+
+- Download Repo
+- Go to chrome Extensions
+- Click Load Unpacked
+- Select the folder where extension was downloaded
+- Bookmark the extension
+- Start using focus mode
